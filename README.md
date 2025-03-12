@@ -1,3 +1,7 @@
+# Astro Project Status:
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3d3d3146-7d1e-4209-b50f-5ce9ce226d69/deploy-status)](https://app.netlify.com/sites/tomasmorono-astro-project/deploys)
+
 # Astro Starter Kit: Minimal
 
 ```sh

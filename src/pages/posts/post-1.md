@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Mi primer post en el blog de Astro'
 pubDate: 12-03-2025
 author: 'Tomás Moroño'
@@ -7,10 +8,6 @@ image:
   alt: 'The Astro logo on a dark background with a pink glow.'
 tags: ['astro', 'blogging', 'learning in public']
 ---
-
-# Mi primer post en el blog de Astro
-
-Publicado el 12-03-2025
 
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 

@@ -1,6 +1,16 @@
 html {
-  background-color: #f1f5f9;
+  background-color: #b3b6ba;
   font-family: sans-serif;
+}
+
+/* Tema oscuro */
+html.dark {
+  background-color: #061b2a;
+  color: #fff;
+}
+
+.dark .nav-links a {
+  color: #fff;
 }
 
 body {
@@ -31,7 +41,7 @@ h1 {
   width: 40px;
   height: 5px;
   margin-bottom: 10px;
-  background-color: #ff9776;
+  background-color: #c37861;
 }
 
 .nav-links {

@@ -1,3 +1,7 @@
+## Tutorial Astro
+
+Este proyecto no es mas que la secuencia del [tutorial de la web oficial de Astro](https://docs.astro.build/en/tutorial). Su finalidad era familiarizarme con este framework para valorar si usarlo en proyectos futuros.
+
 ## Astro Project Status:
 
 Live at: https://tomasmorono-astro-project.netlify.app/

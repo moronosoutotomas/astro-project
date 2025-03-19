@@ -1,8 +1,8 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Mi primer post en el blog de Astro'
 pubDate: 12-03-2025
 author: 'Tomás Moroño'
+description: 'Primer post'
 image:
   url: 'https://docs.astro.build/assets/rose.webp'
   alt: 'The Astro logo on a dark background with a pink glow.'
